@@ -1,4 +1,97 @@
 {
-  "ultima_atualizacao": "2025-06-20 11:30:46",
-  "conteudo_monitorado": "\n---\n \n\n\n\n\nSaiba como aumentar as Vendas | TikTok Shop Academy | Brasil\n\n\n\n\n\n\nWe're sorry but react app doesn't work properly without JavaScript enabled. Please enable it to continue.\n\n---\n \n\n\n\n\nSaiba como aumentar as Vendas | TikTok Shop Academy | Brasil\n\n\n\n\n\n\nWe're sorry but react app doesn't work properly without JavaScript enabled. Please enable it to continue.\n"
+  "ultima_atualizacao": "2025-06-19 20:00:00",
+  "conteudo_extra": {
+    "fonte": "TikTok Shop Oficial",
+    "conteudo_html": "Iniciado monitoramento automático das diretrizes oficiais..."
+  },
+  "regras": [
+    {
+      "categoria": "Alegações proibidas",
+      "palavras_chave": [
+        "cura",
+        "trata",
+        "elimina",
+        "acabou com",
+        "100% garantido",
+        "desinflama",
+        "anti-inflamatório",
+        "reverte",
+        "regenera",
+        "remédio natural"
+      ],
+      "gravidade": "grave",
+      "sugestao": "Evite alegações absolutas de cura ou tratamento. Prefira 'auxilia na saúde de...' ou 'pode contribuir para...'"
+    },
+    {
+      "categoria": "Saúde sensível",
+      "palavras_chave": [
+        "diabetes",
+        "colesterol",
+        "pressão alta",
+        "triglicerídeos",
+        "doença autoimune",
+        "ansiedade",
+        "depressão",
+        "hormônios",
+        "inflamação no útero"
+      ],
+      "gravidade": "grave",
+      "sugestao": "Evite mencionar condições clínicas específicas. Use termos como 'bem-estar' ou 'qualidade de vida'."
+    },
+    {
+      "categoria": "Estética corporal agressiva",
+      "palavras_chave": [
+        "barriga de grávida",
+        "queda dos seios",
+        "vagina fedida",
+        "cheiro de peixe",
+        "flacidez",
+        "seus peitos estão caindo",
+        "corpo deformado",
+        "parece doente"
+      ],
+      "gravidade": "grave",
+      "sugestao": "Evite expressões que humilhem ou exponham características físicas. Foque na transformação positiva."
+    },
+    {
+      "categoria": "Pressão de compra e escassez falsa",
+      "palavras_chave": [
+        "corre",
+        "última chance",
+        "acaba hoje",
+        "não vai durar",
+        "só até amanhã",
+        "clique agora",
+        "botão laranja",
+        "não perca",
+        "restam poucas unidades"
+      ],
+      "gravidade": "médio",
+      "sugestao": "Evite frases de pressão imediata. Prefira 'disponível agora' ou 'descubra mais'."
+    },
+    {
+      "categoria": "Comparações proibidas",
+      "palavras_chave": [
+        "melhor que",
+        "igual remédio",
+        "parece cirurgia",
+        "mais forte que injeção",
+        "efeito igual ao ozempic"
+      ],
+      "gravidade": "grave",
+      "sugestao": "Evite comparações com remédios ou procedimentos médicos. Fale dos ingredientes ou da fórmula de forma neutra."
+    },
+    {
+      "categoria": "Conteúdo de risco geral",
+      "palavras_chave": [
+        "milagre",
+        "nunca mais",
+        "revolucionário",
+        "descoberta que chocou",
+        "médicos odeiam isso"
+      ],
+      "gravidade": "médio",
+      "sugestao": "Evite sensacionalismo. Prefira expressões como 'fórmula bem avaliada' ou 'muito recomendada'."
+    }
+  ]
 }
