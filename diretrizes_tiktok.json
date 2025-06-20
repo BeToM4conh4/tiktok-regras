@@ -1,0 +1,39 @@
+{
+    "ultima_atualizacao": "2025-06-19",
+    "regras": [
+        {
+            "categoria": "Linguagem Ofensiva / Humilhante",
+            "politica": "TikTok Community Guidelines – Bullying",
+            "gravidade": "grave",
+            "termos": [
+                "tus senos caen",
+                "tu vagina huele como",
+                "alcantarilla"
+            ],
+            "frases_proibidas": [
+                "tus senos le dan la mano a tu cintura",
+                "tu barriga parece de 7 meses"
+            ],
+            "sugestoes": {
+                "tus senos caen": "seus seios perderam firmeza",
+                "tu vagina huele como": "problemas com odor íntimo"
+            }
+        },
+        {
+            "categoria": "Pressão de Compra / Urgência",
+            "politica": "TikTok Shop Urgency and Scarcity Policy",
+            "gravidade": "medio",
+            "termos": [
+                "se agota rápido",
+                "haz clic ahora",
+                "promoción especial"
+            ],
+            "frases_proibidas": [
+                "vuelve para darme las gracias"
+            ],
+            "sugestoes": {
+                "se agota rápido": "estoque limitado disponível"
+            }
+        }
+    ]
+}
